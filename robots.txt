@@ -1,0 +1,6 @@
+# Règle 1
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Disallow: /animes/
